@@ -23,7 +23,7 @@
         </intent>
     </queries>
     <application
-        android:label="webtoon"
+        android:label="HealingFit"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
